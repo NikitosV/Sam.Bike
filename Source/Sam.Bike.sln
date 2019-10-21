@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{614A1A26-77BC-45F3-8293-CA41747DB86B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{6F3ABC04-A49D-4A42-9A13-1657C1436B29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{474260E3-1682-4031-BECE-9D4AC2263B86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{C028514E-8E44-4A59-BC88-2FCDFD019CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Bike.Serialization", "Serialization\Sam.Bike.Serialization\Sam.Bike.Serialization.csproj", "{0A41709A-6248-40EB-9952-9E03347B1400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Bike.Web", "Project\Sam.Bike.Web\Sam.Bike.Web.csproj", "{05DD0F13-FB03-4313-AD85-A770CDB86FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Foundation.GlassMapper", "Foundation\Sam.Foundation.GlassMapper\Sam.Foundation.GlassMapper.csproj", "{8A11034A-568F-4988-8EE7-34CF90FBF397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Foundation.DependencyInjection", "Foundation\Sam.Foundation.DependencyInjection\Sam.Foundation.DependencyInjection.csproj", "{B6430A49-2D66-4475-9FA4-3831C5EA42D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Feature.Slider", "Feature\Sam.Feature.Slider\Sam.Feature.Slider.csproj", "{8EA90C11-2444-49A8-9862-57F5F60D7B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sam.Feature.Button", "Feature\Sam.Feature.Button\Sam.Feature.Button.csproj", "{465E3D56-67A5-4EF4-95FC-D1210AF8CFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A41709A-6248-40EB-9952-9E03347B1400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A41709A-6248-40EB-9952-9E03347B1400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A41709A-6248-40EB-9952-9E03347B1400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A41709A-6248-40EB-9952-9E03347B1400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DD0F13-FB03-4313-AD85-A770CDB86FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DD0F13-FB03-4313-AD85-A770CDB86FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DD0F13-FB03-4313-AD85-A770CDB86FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DD0F13-FB03-4313-AD85-A770CDB86FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A11034A-568F-4988-8EE7-34CF90FBF397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A11034A-568F-4988-8EE7-34CF90FBF397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A11034A-568F-4988-8EE7-34CF90FBF397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A11034A-568F-4988-8EE7-34CF90FBF397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6430A49-2D66-4475-9FA4-3831C5EA42D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6430A49-2D66-4475-9FA4-3831C5EA42D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6430A49-2D66-4475-9FA4-3831C5EA42D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6430A49-2D66-4475-9FA4-3831C5EA42D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA90C11-2444-49A8-9862-57F5F60D7B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA90C11-2444-49A8-9862-57F5F60D7B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA90C11-2444-49A8-9862-57F5F60D7B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA90C11-2444-49A8-9862-57F5F60D7B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465E3D56-67A5-4EF4-95FC-D1210AF8CFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465E3D56-67A5-4EF4-95FC-D1210AF8CFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465E3D56-67A5-4EF4-95FC-D1210AF8CFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465E3D56-67A5-4EF4-95FC-D1210AF8CFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A41709A-6248-40EB-9952-9E03347B1400} = {C028514E-8E44-4A59-BC88-2FCDFD019CCE}
+		{05DD0F13-FB03-4313-AD85-A770CDB86FB7} = {474260E3-1682-4031-BECE-9D4AC2263B86}
+		{8A11034A-568F-4988-8EE7-34CF90FBF397} = {614A1A26-77BC-45F3-8293-CA41747DB86B}
+		{B6430A49-2D66-4475-9FA4-3831C5EA42D2} = {614A1A26-77BC-45F3-8293-CA41747DB86B}
+		{8EA90C11-2444-49A8-9862-57F5F60D7B54} = {6F3ABC04-A49D-4A42-9A13-1657C1436B29}
+		{465E3D56-67A5-4EF4-95FC-D1210AF8CFE8} = {6F3ABC04-A49D-4A42-9A13-1657C1436B29}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D175A5-4254-453E-8091-91A95E24EB9B}
+	EndGlobalSection
+EndGlobal
