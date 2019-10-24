@@ -1,0 +1,21 @@
+﻿---
+ID: "610f4cb2-d6a7-4607-9848-7417dd2711bb"
+Parent: "709b8f55-cbca-4e92-ac92-2b35b245c895"
+Template: "73a6bb74-3cf6-42ed-a3fe-822f19a1652f"
+Path: /sitecore/content/Sam/Bike/Options/Button Styles/Green Outline
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T102141Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cfe3d91-d370-42de-9a71-208d357a5b50"
+      Hint: Class
+      Value: "btn-outline-success"

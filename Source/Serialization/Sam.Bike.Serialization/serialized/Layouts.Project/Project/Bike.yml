@@ -1,0 +1,14 @@
+﻿---
+ID: "3eb84969-d6d8-4bd7-93f9-807279009c39"
+Parent: "f4ae5827-e9b1-42fb-8ad3-8f33935d6ff4"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project/Bike
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T094110Z
