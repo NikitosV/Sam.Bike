@@ -166,6 +166,8 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Areas\Bike\Views\Header\Header.cshtml" />
+    <Content Include="Areas\Bike\Views\Shared\BikesLayout.cshtml" />
     <None Include="Global.asax" />
     <Content Include="App_Config\Include\zzz.Bike\Bike.config">
       <SubType>Designer</SubType>

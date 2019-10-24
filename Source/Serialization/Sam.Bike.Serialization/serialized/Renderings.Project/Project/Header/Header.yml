@@ -1,0 +1,18 @@
+﻿---
+ID: "86ad222b-56af-4520-be9f-4de826cb83e0"
+Parent: "ba2b3bcf-3dd9-4afa-86df-8be9c4580a72"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/Header/Header
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Areas/Bike/Views/Header/Header.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T115541Z
