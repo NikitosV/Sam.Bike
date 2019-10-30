@@ -1,11 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using Glass.Mapper.Sc.Configuration;
+using Glass.Mapper.Sc.Configuration.Attributes;
+using Sam.Foundation.GlassMapper.Models;
 
 namespace Sam.Feature.Button.Areas.Button.Models.ScModels
 {
-    public class Option
+    [SitecoreType(TemplateId = Templates.Option.Id, AutoMap = true)]
+    public class Option : BaseScModel
     {
+        [SitecoreField(FieldType = SitecoreFieldType.SingleLineText)]
+        public virtual string Class { get; set; }
     }
 }

@@ -1,13 +1,9 @@
 ﻿---
-ID: "709b8f55-cbca-4e92-ac92-2b35b245c895"
-Parent: "aad446c9-c8f9-4099-a896-cdda28e29c1e"
-Template: "8ee23890-e1dc-4a37-bd22-c951aba14f51"
+ID: "70e0f846-7250-449e-a2c7-b0ee50d08e06"
+Parent: "687f188c-fa84-4c03-97f7-211101ffadeb"
+Template: "1b7f45c3-97b9-4670-9ccd-b009673c8085"
 Path: /sitecore/content/Sam/Bike/Options/Button Styles
 DB: master
-SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: People/16x16/palette.png
 Languages:
 - Language: en
   Versions:
@@ -15,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T102049Z
+      Value: 20191029T105155Z

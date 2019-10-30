@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Sam.Foundation.GlassMapper
+namespace Sam.Foundation.GlassMapper.App_Start
 {
     public class RouteConfig
     {

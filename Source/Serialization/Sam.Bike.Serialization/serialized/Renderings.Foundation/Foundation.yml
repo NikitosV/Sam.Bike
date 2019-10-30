@@ -1,5 +1,5 @@
 ﻿---
-ID: "f3864eb3-64d2-4d63-97d7-bb294eb43603"
+ID: "efa0d559-70c9-4cb8-a36d-1764b227d7fd"
 Parent: "32566f0e-7686-45f1-a12f-d7260bd78bc3"
 Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
 Path: /sitecore/layout/Renderings/Foundation
@@ -11,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T094230Z
+      Value: 20191029T102528Z

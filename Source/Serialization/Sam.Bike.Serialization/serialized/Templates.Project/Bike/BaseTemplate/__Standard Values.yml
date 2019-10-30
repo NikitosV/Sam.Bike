@@ -1,7 +1,7 @@
 ﻿---
-ID: "47772e68-c7ae-4df4-b990-118796fc9584"
-Parent: "8b21c975-2f00-4411-b07f-220738c7ce10"
-Template: "8b21c975-2f00-4411-b07f-220738c7ce10"
+ID: "903f4651-cff1-4554-b8ef-4e17049a9c57"
+Parent: "6ec33303-2182-4aa7-9f84-e80978d3e9c7"
+Template: "6ec33303-2182-4aa7-9f84-e80978d3e9c7"
 Path: /sitecore/templates/Project/Bike/BaseTemplate/__Standard Values
 DB: master
 Languages:
@@ -11,14 +11,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T093753Z
+      Value: 20191029T102908Z
+    - ID: "46f2dad4-233a-4a62-bc6c-d75388a560da"
+      Hint: Footer
+      Value: Sam Solutions
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\admin
-    - ID: "60512f16-d7f7-47c7-b246-3fdb36d5c834"
+    - ID: "ad1fcfa2-207c-47cd-a4f2-a308a2635b74"
       Hint: Title
       Value: $name
-    - ID: "878da186-ccbd-49c1-ab44-1e550fe868ea"
-      Hint: Footer
-      Value: Sam Solutions

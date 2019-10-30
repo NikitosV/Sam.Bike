@@ -1,6 +1,6 @@
 ﻿---
-ID: "8ee23890-e1dc-4a37-bd22-c951aba14f51"
-Parent: "f8eea904-746b-4e87-afe7-e025493b3712"
+ID: "1b7f45c3-97b9-4670-9ccd-b009673c8085"
+Parent: "16ac3e2b-172c-49b5-8262-285f9112a016"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Feature/Button/Option List
 DB: master
@@ -11,7 +11,7 @@ SharedFields:
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{D4BA0FBA-62B3-41A7-8D88-30FC020BE6E1}"
+  Value: "{4480ABC9-5951-4588-AD1C-1CDB0F1A7C0B}"
 Languages:
 - Language: en
   Versions:
@@ -19,7 +19,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T095051Z
+      Value: 20191029T104752Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

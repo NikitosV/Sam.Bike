@@ -1,6 +1,6 @@
 ﻿---
-ID: "60512f16-d7f7-47c7-b246-3fdb36d5c834"
-Parent: "5d235af2-e89c-4d79-ba0a-f441e1e69d2a"
+ID: "ad1fcfa2-207c-47cd-a4f2-a308a2635b74"
+Parent: "af500e94-1bb9-4c39-9bb3-1554ccf31dc3"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/Bike/BaseTemplate/Base Data/Title
 DB: master
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T093744Z
+      Value: 20191029T102902Z

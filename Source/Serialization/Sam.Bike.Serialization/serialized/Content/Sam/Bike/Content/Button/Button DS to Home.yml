@@ -1,0 +1,22 @@
+﻿---
+ID: "2169d688-aafe-4988-89a7-0f674e53538d"
+Parent: "07bdf5cc-b598-441e-9909-f1ba9066b8a1"
+Template: "cd68dc0f-2543-40b4-a71b-37be06ff3369"
+Path: /sitecore/content/Sam/Bike/Content/Button/Button DS to Home
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T110506Z
+    - ID: "4b439c38-f3cb-4846-a8af-bcbdf1be6d84"
+      Hint: Link
+      Value: |
+        <link linktype="internal" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

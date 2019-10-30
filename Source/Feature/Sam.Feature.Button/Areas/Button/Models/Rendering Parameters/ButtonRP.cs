@@ -1,11 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using Glass.Mapper.Sc.Configuration;
+using Glass.Mapper.Sc.Configuration.Attributes;
+using Sam.Feature.Button.Areas.Button.Models.ScModels;
 
 namespace Sam.Feature.Button.Areas.Button.Models.Rendering_Parameters
 {
+    [SitecoreType(TemplateId = Templates.ButtonRP.Id, AutoMap = true)]
     public class ButtonRP
     {
+        [SitecoreField(FieldType = SitecoreFieldType.Droplink)]
+        public virtual Option Style { get; set; }
     }
 }

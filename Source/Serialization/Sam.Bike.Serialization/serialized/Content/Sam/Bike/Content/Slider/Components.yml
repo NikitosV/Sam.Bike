@@ -1,0 +1,14 @@
+﻿---
+ID: "d9fce92a-0fd9-4f84-ae07-f6e3141aaa55"
+Parent: "7e387d73-cd5b-454b-895f-9367a838f916"
+Template: "37c79918-715b-4b95-8cb8-67447c9ee96f"
+Path: /sitecore/content/Sam/Bike/Content/Slider/Components
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T124449Z

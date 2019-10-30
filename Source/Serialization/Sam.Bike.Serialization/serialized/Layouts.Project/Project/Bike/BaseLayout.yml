@@ -1,6 +1,6 @@
 ﻿---
-ID: "d587d8ba-c254-4d2c-9b60-e15a044a4145"
-Parent: "3eb84969-d6d8-4bd7-93f9-807279009c39"
+ID: "ee15f64e-08fa-4ccc-a1e7-584f03e12186"
+Parent: "58f3aca3-1456-4fb1-a03c-390d3ba1c0ff"
 Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
 Path: /sitecore/layout/Layouts/Project/Bike/BaseLayout
 DB: master
@@ -15,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191024T114538Z
+      Value: 20191029T103818Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

@@ -1,6 +1,6 @@
 ﻿---
-ID: "3d974d26-9daa-403d-804f-82472e0c7d24"
-Parent: "86f10a09-c926-424a-8d1a-1aad1774fa54"
+ID: "25e7e9c4-a9c3-4865-aafe-81f57bdf5998"
+Parent: "0001d021-d895-4502-9f40-87b6e16c6cba"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Feature/Slider/Hero Slider/Slider Content/Hero Images
 DB: master
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T095829Z
+      Value: 20191030T101104Z

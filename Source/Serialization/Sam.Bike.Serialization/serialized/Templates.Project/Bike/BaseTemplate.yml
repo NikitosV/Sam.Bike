@@ -1,6 +1,6 @@
 ﻿---
-ID: "8b21c975-2f00-4411-b07f-220738c7ce10"
-Parent: "18a24236-ff4f-4ff9-9f4b-3411142b207e"
+ID: "6ec33303-2182-4aa7-9f84-e80978d3e9c7"
+Parent: "146c7c5f-b013-4550-bd2d-2186fed6b07e"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/Bike/BaseTemplate
 DB: master
@@ -11,7 +11,7 @@ SharedFields:
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{47772E68-C7AE-4DF4-B990-118796FC9584}"
+  Value: "{903F4651-CFF1-4554-B8EF-4E17049A9C57}"
 Languages:
 - Language: en
   Versions:
@@ -19,7 +19,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T093711Z
+      Value: 20191029T102838Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

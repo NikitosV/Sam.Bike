@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Glass.Mapper.Sc.Web.Mvc;
+using Sam.Feature.Button.Areas.Button.Models.ViewModels;
 
 namespace Sam.Feature.Button.Areas.Button.Logic.Interfaces
 {
-    interface IButtonService
+    public interface IButtonService
     {
+        //ButtonViewModel Get(IMvcContext mvcContext);
     }
 }

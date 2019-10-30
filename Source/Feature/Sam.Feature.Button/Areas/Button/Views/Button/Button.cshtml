@@ -1,17 +1,4 @@
-﻿
-@{
-    Layout = null;
-}
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model Sam.Feature.Button.Areas.Button.Models.ViewModels.ButtonViewModel
 
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Button</title>
-</head>
-<body>
-    <div> 
-    </div>
-</body>
-</html>
+@Html.Glass().Editable(m => m.Link, new { @class = "btn " + Model.Class})

@@ -1,13 +1,10 @@
 ﻿---
-ID: "848d737d-f50b-4045-84fe-cb29e88622b2"
-Parent: "87033607-9334-4418-b9bd-70f3a80b73a6"
+ID: "322f6bf0-d2b9-40e9-844b-586426c4e8b8"
+Parent: "062bd1ea-1893-4172-8f0b-91f7a5ff1796"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/Sam/Bike/Data
 DB: master
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: Business/16x16/data.png
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
@@ -18,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T094521Z
+      Value: 20191029T104854Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

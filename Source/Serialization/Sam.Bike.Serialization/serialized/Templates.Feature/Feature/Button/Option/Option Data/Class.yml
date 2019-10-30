@@ -1,6 +1,6 @@
 ﻿---
-ID: "8cfe3d91-d370-42de-9a71-208d357a5b50"
-Parent: "cfdc5067-40ef-4ffd-9cc1-740649c6afd9"
+ID: "cd16a0c5-8f06-4e81-b627-d158b11413a8"
+Parent: "eb6ef5fb-0a10-4ff8-a5ec-4c7e9ca5251a"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Feature/Button/Option/Option Data/Class
 DB: master
@@ -18,4 +18,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T095018Z
+      Value: 20191029T104715Z

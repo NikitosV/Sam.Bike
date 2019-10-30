@@ -1,6 +1,6 @@
 ﻿---
-ID: "fd8d96ed-aebc-40ac-9ace-f71e31c8ba9e"
-Parent: "1fa96b8d-64d6-416b-b2e6-3f0b333c3a32"
+ID: "7e387d73-cd5b-454b-895f-9367a838f916"
+Parent: "bf476aa3-5ea9-4902-8b37-8ae94ceb1756"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/Sam/Bike/Content/Slider
 DB: master
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T094648Z
+      Value: 20191030T124430Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

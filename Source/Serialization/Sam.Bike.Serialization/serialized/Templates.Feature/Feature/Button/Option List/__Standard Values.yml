@@ -1,7 +1,7 @@
 ﻿---
-ID: "d4ba0fba-62b3-41a7-8d88-30fc020be6e1"
-Parent: "8ee23890-e1dc-4a37-bd22-c951aba14f51"
-Template: "8ee23890-e1dc-4a37-bd22-c951aba14f51"
+ID: "4480abc9-5951-4588-ad1c-1cdb0f1a7c0b"
+Parent: "1b7f45c3-97b9-4670-9ccd-b009673c8085"
+Template: "1b7f45c3-97b9-4670-9ccd-b009673c8085"
 Path: /sitecore/templates/Feature/Button/Option List/__Standard Values
 DB: master
 Languages:
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T095058Z
+      Value: 20191029T104758Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

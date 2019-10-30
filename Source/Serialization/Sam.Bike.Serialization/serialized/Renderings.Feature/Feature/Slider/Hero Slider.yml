@@ -1,0 +1,14 @@
+﻿---
+ID: "3a42cb71-0114-4554-96ff-ed6898767a19"
+Parent: "c777d50e-5dc3-4f75-99b8-d707a8eb0770"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Slider/Hero Slider
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T124609Z

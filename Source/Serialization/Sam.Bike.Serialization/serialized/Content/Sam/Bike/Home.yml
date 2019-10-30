@@ -1,7 +1,7 @@
 ﻿---
-ID: "04276e11-bd65-41e2-b68e-0373ce5ad529"
-Parent: "87033607-9334-4418-b9bd-70f3a80b73a6"
-Template: "8b21c975-2f00-4411-b07f-220738c7ce10"
+ID: "94b1377c-fd4a-4391-acf7-e597b820cbdc"
+Parent: "062bd1ea-1893-4172-8f0b-91f7a5ff1796"
+Template: "6ec33303-2182-4aa7-9f84-e80978d3e9c7"
 Path: /sitecore/content/Sam/Bike/Home
 DB: master
 SharedFields:
@@ -18,16 +18,30 @@ SharedFields:
     <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{D587D8BA-C254-4D2C-9B60-E15A044A4145}" />
+        l="{EE15F64E-08FA-4CCC-A1E7-584F03E12186}" />
     </r>
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4ED4B2EE-D2CF-493C-B8FB-4DF1AD4CF803}"
+              s:id="{600C7BEE-10F8-427C-BB40-C0CB397E8B7E}"
+              s:ph="Header" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T094409Z
-    - ID: "60512f16-d7f7-47c7-b246-3fdb36d5c834"
+      Value: 20191029T104229Z
+    - ID: "ad1fcfa2-207c-47cd-a4f2-a308a2635b74"
       Hint: Title
       Value: Home

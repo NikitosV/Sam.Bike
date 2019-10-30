@@ -1,10 +1,13 @@
 ﻿---
-ID: "9cab0be7-c038-40eb-a510-852da297d1a0"
-Parent: "e282e31f-e71a-48e0-809a-afa151f09ab6"
+ID: "1feb70cc-17ff-4c93-bc07-b809ecf273a3"
+Parent: "5eff43dd-2cfb-4f53-9575-78890ff13025"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Feature/Button/Button Rendering Parameter Template/Fields Data/Style
 DB: master
 SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: /sitecore/Content/Sam/Bike/Options/Button Styles
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Droplink
@@ -18,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T094912Z
+      Value: 20191029T104544Z

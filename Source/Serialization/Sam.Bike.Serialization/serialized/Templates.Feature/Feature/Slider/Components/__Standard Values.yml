@@ -1,13 +1,13 @@
 ﻿---
-ID: "66961e0e-35e1-44c0-a169-547e49f5221c"
-Parent: "532d7d7b-7180-4ed8-b48f-d8718b16acd7"
-Template: "532d7d7b-7180-4ed8-b48f-d8718b16acd7"
+ID: "55c18666-0390-4559-825b-604e779e6811"
+Parent: "37c79918-715b-4b95-8cb8-67447c9ee96f"
+Template: "37c79918-715b-4b95-8cb8-67447c9ee96f"
 Path: /sitecore/templates/Feature/Slider/Components/__Standard Values
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: applications/16x16/form_green.png
+  Value: business/16x16/cabinet.png
 - ID: "a791f095-2521-4b4d-bef9-21dda221f608"
   Hint: __Style
   Value: |
@@ -20,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T095547Z
+      Value: 20191030T124207Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

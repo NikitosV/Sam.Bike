@@ -1,6 +1,6 @@
 ﻿---
-ID: "86f10a09-c926-424a-8d1a-1aad1774fa54"
-Parent: "1be89eb9-ca44-476d-90f1-760e121fa7b8"
+ID: "0001d021-d895-4502-9f40-87b6e16c6cba"
+Parent: "7606568b-011d-474e-9a9c-0dbe5c2c3dc9"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: /sitecore/templates/Feature/Slider/Hero Slider/Slider Content
 DB: master
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191023T095803Z
+      Value: 20191030T101104Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

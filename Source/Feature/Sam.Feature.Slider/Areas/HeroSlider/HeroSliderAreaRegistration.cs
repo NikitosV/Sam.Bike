@@ -1,22 +1,22 @@
 ﻿using System.Web.Mvc;
 
-namespace Sam.Feature.Slider.Areas.Slider
+namespace Sam.Feature.Slider.Areas.HeroSlider
 {
-    public class SliderAreaRegistration : AreaRegistration 
+    public class HeroSliderAreaRegistration : AreaRegistration 
     {
         public override string AreaName 
         {
             get 
             {
-                return "Slider";
+                return "HeroSlider";
             }
         }
 
         public override void RegisterArea(AreaRegistrationContext context) 
         {
             context.MapRoute(
-                "Slider_default",
-                "Slider/{controller}/{action}/{id}",
+                "HeroSlider_default",
+                "HeroSlider/{controller}/{action}/{id}",
                 new { action = "Index", id = UrlParameter.Optional }
             );
         }

@@ -1,6 +1,6 @@
 ﻿---
-ID: "86ad222b-56af-4520-be9f-4de826cb83e0"
-Parent: "ba2b3bcf-3dd9-4afa-86df-8be9c4580a72"
+ID: "600c7bee-10f8-427c-bb40-c0cb397e8b7e"
+Parent: "cfe959fb-b1f7-417b-8aa7-f8c13c815e43"
 Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
 Path: /sitecore/layout/Renderings/Project/Header/Header
 DB: master
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191024T115541Z
+      Value: 20191029T105928Z

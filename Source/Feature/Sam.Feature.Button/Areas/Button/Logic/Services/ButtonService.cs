@@ -1,11 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using AutoMapper;
+using Glass.Mapper.Sc.Web.Mvc;
+using Sam.Feature.Button.Areas.Button.Logic.Interfaces;
+using Sam.Feature.Button.Areas.Button.Models.Rendering_Parameters;
+using Sam.Feature.Button.Areas.Button.Models.ScModels;
+using Sam.Feature.Button.Areas.Button.Models.ViewModels;
+using Sam.Foundation.DependencyInjection;
 
 namespace Sam.Feature.Button.Areas.Button.Logic.Services
 {
-    public class ButtonService
+    [Service(typeof(IButtonService))]
+    public class ButtonService : IButtonService
     {
+        private readonly IMapper _mapper;
+
+        public ButtonService(IMapper mapper)
+        {
+            _mapper = mapper;
+        }
+
+        //public ButtonViewModel Get(IMvcContext mvcContext)
+        //{
+        //    var vm = _mapper.Map<ButtonViewModel>(mvcContext.GetDataSourceItem<ButtonScModel>());
+        //    _mapper.Map(mvcContext.GetRenderingParameters<ButtonRP>(), vm);
+
+        //    return vm;
+        //}
     }
 }
